@@ -31,6 +31,6 @@
 
 ###
 
-<p align="left">PROJETO DE PROGRAMADOR JS E PYTHON.</p>
+<p align="left">FGC.</p>
 
 ###
