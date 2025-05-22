@@ -21,7 +21,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kaiquegeiker/kaiquegeiker/output/snake.svg" alt="Snake animation" />
 
 ###
 
